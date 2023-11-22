@@ -4,3 +4,47 @@ title: My New Hugo Site
 theme: PaperMod
 paginate: 5
 publishDir: "docs"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableInlineShortcodes: true
+enableEmoji: true
+pygmentsUseClasses: false
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 15
+    - identifier: Blogs
+      name: Blogs
+      url: /blogs
+      weight: 20
+    - identifier: Write-ups
+      name: Write-ups
+      url: /write-ups
+      weight: 30
+    - identifier: Tags
+      name: Tags-cloud
+      url: /tags
+      weight: 40
+    - identifier: Resume
+      name: Resume
+      url: /resume
+      weight: 45
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 50
+    - identifier: search
+      name: ⌕
+      url: /search
+      weight: 60
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
