@@ -64,7 +64,7 @@ params:
     imageUrl: img/profile-pic.png
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: "Mohammed Abdulfattah"
     # buttons:
     #   - name: Posts
     #     url: posts
