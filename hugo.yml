@@ -4,11 +4,11 @@ paginate: 5
 theme: "PaperMod"
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -21,10 +21,10 @@ params:
   keywords: [Technical Blog, Portfolio, PaperMod, Resume, Notes, Papers, Cybersecurity, Security, Infosec, Infosecurity, Information Security]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
-  disableThemeToggle: false
+  # disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -43,13 +43,13 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    # favicon: "<link / abs url>"
-    # favicon16x16: "<link / abs url>"
-    # favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "<link / abs url>"
-    # safari_pinned_tab: "<link / abs url>"
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
 
   label:
     text: "S0L1Dx10"
@@ -89,6 +89,12 @@ params:
       title: "Download Resume"
       url: "profile/Mohammed Abdulfattah - Resume.pdf"
 
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
+
 
   analytics:
     google:
@@ -105,7 +111,7 @@ params:
 
   editPost:
     URL: "https://github.com/s0l1dx10/s0l1dx10.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Want to contribute?" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -142,6 +148,8 @@ menu:
       name: whoami
       url: /about/
       weight: 10
+
+  
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
