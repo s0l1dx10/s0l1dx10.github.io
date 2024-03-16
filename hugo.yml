@@ -1,4 +1,5 @@
 baseURL: "https://s0l1dx10.github.io/"
+languageCode: "en-us"
 title: "S0L1Dx10"
 paginate: 5
 theme: "PaperMod"
@@ -8,7 +9,9 @@ enableRobotsTXT: true
 # buildFuture: false
 # buildExpired: false
 
-# googleAnalytics: UA-123-45
+# services:
+#   googleAnalytics:
+#     ID: G-XXXXXXXXX
 
 minify:
   disableXML: true
