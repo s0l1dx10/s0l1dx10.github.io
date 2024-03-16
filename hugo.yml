@@ -92,21 +92,6 @@ params:
       title: "Download Resume"
       url: "profile/Mohammed Abdulfattah - Resume.pdf"
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
@@ -135,14 +120,30 @@ outputs:
   #   - tags
   #   - about
 
-  
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+
 
 menu:
   main:
     - identifier: search
-      name: 🔍
+      name: 🔍Search
       url: /search/
-      weight: 50
+      weight: 10
     - identifier: posts
       name: posts
       url: /posts/
@@ -158,7 +159,7 @@ menu:
     - identifier: about
       name: whoami
       url: /about/
-      weight: 10
+      weight: 50
 
   
 
