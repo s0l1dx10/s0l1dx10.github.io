@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>S0L1Dx10</title>
-    <link>https://s0l1dx10.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on S0L1Dx10</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 03 Dec 2023 18:06:45 +0200</lastBuildDate>
-    <atom:link href="https://s0l1dx10.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lol</title>
-      <link>https://s0l1dx10.github.io/posts/beb/lol/</link>
+      <link>http://localhost:1313/posts/beb/lol/</link>
       <pubDate>Sun, 03 Dec 2023 18:06:45 +0200</pubDate>
-      <guid>https://s0l1dx10.github.io/posts/beb/lol/</guid>
+      <guid>http://localhost:1313/posts/beb/lol/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://s0l1dx10.github.io/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Wed, 22 Nov 2023 13:19:50 +0200</pubDate>
-      <guid>https://s0l1dx10.github.io/posts/test/</guid>
-      <description>This is a test page etc&amp;hellip; test typing</description>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>This is a test page etc test typing</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://s0l1dx10.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s0l1dx10.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Mohammed Abdulfattah </description>
     </item>
   </channel>
