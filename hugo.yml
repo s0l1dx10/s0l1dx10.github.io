@@ -1,5 +1,5 @@
 baseURL: "https://s0l1dx10.github.io/"
-# languageCode: "en-us"
+languageCode: "en-us"
 title: "S0L1Dx10"
 paginate: 5
 theme: "PaperMod"
@@ -46,8 +46,8 @@ params:
   tocopen: false
 
   assets:
-    disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
     favicon: "/favicon/favicon.ico"
     favicon16x16: "/favicon/favicon-16x16.png"
     favicon32x32: "/favicon/favicon-32x32.png"
@@ -62,8 +62,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Hi there \U0001F44B"
-    subtitle: "I'm Mohammed Abdulfattah, Welcome to my blog"
+    title: "Welcome to my blog \U0001F44B"
+    subtitle: "Posting about Cybersecurity, and other tech stuff."
     imageUrl: img/profile-pic.png
     imageWidth: 120
     imageHeight: 120
@@ -82,15 +82,23 @@ params:
   socialIcons:
     - name: email
       url: "mailto:mohammed.abdul.fattah010@gmail.com"
-    - name: twitter
-      url: "https://twitter.com/s0l1dx10"
+    - name: X
+      url: "https://x.com/s0l1dx10"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/mohammed-abdulfattah/"
     - name: github
       url: "https://github.com/s0l1dx10"
     - name: cv
-      title: "Download Resume"
+      title: "Resume"
       url: "profile/Mohammed Abdulfattah - Resume.pdf"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -120,23 +128,12 @@ params:
   #   - tags
   #   - about
 
-
+#for search page:
 outputs:
   home:
     - HTML
     - RSS
     - JSON
-
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
-
 
 menu:
   main:
