@@ -22,10 +22,10 @@ params:
   title: "S0L1Dx10"
   description: "Technical Blog, Portfolio, Resume, Notes, Papers, etc."
   keywords: [Technical Blog, Portfolio, PaperMod, Resume, Notes, Papers, Cybersecurity, Security, Infosec, Infosecurity, Information Security]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "02 January 2006"
   defaultTheme: dark # dark, light
   # disableThemeToggle: false
 

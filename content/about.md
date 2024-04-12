@@ -6,8 +6,10 @@ ShowWordCount: false
 ShowBreadCrumbs: false
 draft : false
 layout: "about"
-# hideMeta: true
 url: "/about/"
+disableShare: true
+comments: false
+hidemeta: true
 ---
 
-## Mohammed Abdulfattah
+## My name is Mohammed Abdulfattah
