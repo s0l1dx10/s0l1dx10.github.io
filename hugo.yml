@@ -62,7 +62,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome to my blog \U0001F44B"
+    title: "Welcome to my blog :wave:"
     subtitle: "Posting about Cybersecurity, and other tech stuff."
     imageUrl: img/profile-pic.png
     imageWidth: 120
@@ -164,6 +164,9 @@ menu:
 pygmentsUseClasses: true
 
 enableGitInfo: true
+
+enableEmoji: true
+
 
 markup:
   highlight:
