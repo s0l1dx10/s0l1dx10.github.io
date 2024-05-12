@@ -22,7 +22,7 @@ jobs:
         with:
           # hugo-version: '0.119.0'
           hugo-version: 'latest'
-          # extended: true
+          extended: true
 
       - name: Build
         run: hugo --minify
