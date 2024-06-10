@@ -16,7 +16,7 @@ hidemeta: true
 
 A lifelong Learner who is passionat about cybersecurity world.
 
-[comment]: <![alt text](/img/profile-pic(4).png)>
+[comment]:<![alt text](/img/profile-pic(4).png)>
 
 
 
@@ -24,7 +24,7 @@ A lifelong Learner who is passionat about cybersecurity world.
 
 {{< tryhackme >}}
 
-[comment]: <{{< hackthebox >}}>
+[comment]:<{{< hackthebox >}}>
 
 
 
