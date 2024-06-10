@@ -24,7 +24,7 @@ A lifelong Learner who is passionat about cybersecurity world.
 
 {{< tryhackme >}}
 
-[comment]:<{{< hackthebox >}}>
+[comment]: <{{< hackthebox >}}>
 
 
 
