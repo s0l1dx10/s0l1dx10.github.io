@@ -21,7 +21,11 @@ A lifelong learner who is passionate about tech, especially cybersecurity, welco
 {{< tryhackme >}}
 
 
-<iframe src="https://api.badgr.io/public/collections/ad783041de004fc9ac031491de3e6e6a?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="MaharahTech" style="width: 330px; height: 146px; border: 0px;"></iframe>
+
+
+
+
+{{< badgr >}}
 
 [comment]: <{{< hackthebox >}}>
 
