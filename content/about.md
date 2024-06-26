@@ -12,21 +12,16 @@ comments: false
 hidemeta: true
 ---
 
-## My name is Mohammed Abdulfattah
+### I am Mohammed Abdulfattah
 
-A lifelong Learner who is passionat about cybersecurity world.
+A lifelong learner who is passionate about tech, especially cybersecurity, welcome to my blog ^_^
 
 [comment]:<![alt text](/img/profile-pic(4).png)>
-
-
-
-
 
 {{< tryhackme >}}
 
 [comment]: <{{< hackthebox >}}>
 
+[comment]: <![Solidx10](https://www.hackthebox.com/badge/image/1114544)>
 
-
-{{< ccLicense >}}
-
+[comment]: <{{< ccLicense >}}>
