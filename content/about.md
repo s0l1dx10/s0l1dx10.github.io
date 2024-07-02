@@ -20,12 +20,9 @@ A lifelong learner who is passionate about tech, especially cybersecurity, welco
 
 {{< tryhackme >}}
 
+[comment]: <> (Put social media?)
 
-
-
-
-
-{{< badgr >}}
+[comment]: <{{< badgr >}}>
 
 [comment]: <{{< hackthebox >}}>
 
