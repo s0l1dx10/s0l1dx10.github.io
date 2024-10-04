@@ -12,9 +12,9 @@ comments: false
 hidemeta: true
 ---
 
-### I am Mohammed Abdulfattah
+### Hi, my name is Mohammed Abdulfattah
 
-A lifelong learner who is passionate about tech, especially cybersecurity, welcome to my blog ^_^
+A lifelong learner with passion for technology, particularly cybersecurity. Currently working in Identity Access Management team at [Secure Networks](https://www.secure-networksco.com/). Welcome to my Blog ^_^
 
 [comment]:<![alt text](/img/profile-pic(4).png)>
 
