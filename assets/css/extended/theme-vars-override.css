@@ -1,0 +1,32 @@
+:root {
+    --theme: #f7f7f7; /* Light off-white background for light mode */
+    --entry: #f4f5f9; /* Soft light background for entries or forms */
+    --primary: #333; /* Dark gray for primary text */
+    --secondary: #555; /* Lighter gray for secondary text */
+    --tertiary: rgba(0, 0, 106, 0.16); /* Soft accent for small elements */
+    --content: #222; /* Slightly darker text for content */
+    --hljs-bg: #f1f1f1; /* Light background for highlighted code */
+    --code-bg: #fafafa; /* Soft background for code blocks */
+    --border: #ddd; /* Subtle light border for separation */
+}
+
+.dark {
+    --theme: #282828; /* Gruvbox dark hard background color */
+    --entry: #3c3836; /* Darker entry background for form elements */
+    --primary: #ebdbb2; /* Light beige primary text */
+    --secondary: #7c6f64; /* Soft grayish-brown secondary text */
+    --tertiary: rgba(255, 255, 255, 0.15); /* Subtle accent for tertiary elements */
+    --content: #ebdbb2; /* Lighter text for content */
+    --hljs-bg: #3c3836; /* Dark background for highlighted code */
+    --code-bg: #3c3836; /* Dark code block background */
+    --border: #504945; /* Slightly lighter border color */
+    
+    /* Gruvbox color accents */
+    --red: #fb4934; /* Red accent */
+    --green: #b8bb26; /* Green accent */
+    --yellow: #fabd2f; /* Yellow accent */
+    --blue: #83a598; /* Blue accent */
+    --purple: #d3869b; /* Purple accent */
+    --aqua: #8ec07c; /* Aqua accent */
+    --orange: #fe8019; /* Orange accent */
+}
