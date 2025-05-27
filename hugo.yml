@@ -1,7 +1,7 @@
 baseURL: "https://s0l1dx10.github.io/"
 languageCode: "en-us"
 title: "S0L1Dx10"
-paginate: 5
+pagination: { "pagerSize": 10 }
 theme: "PaperMod"
 
 enableRobotsTXT: true

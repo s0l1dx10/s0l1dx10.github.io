@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-11T17:19:43+02:00</lastmod>
+    <loc>https://s0l1dx10.github.io/posts/linux/tests/</loc>
+    <lastmod>2025-05-27T15:28:04+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-11T17:19:43+02:00</lastmod>
+    <loc>https://s0l1dx10.github.io/posts/</loc>
+    <lastmod>2025-05-27T15:28:04+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/linux/tests/</loc>
-    <lastmod>2024-03-16T10:26:47+02:00</lastmod>
+    <loc>https://s0l1dx10.github.io/</loc>
+    <lastmod>2025-05-27T15:28:04+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://s0l1dx10.github.io/about/</loc>
     <lastmod>2024-10-04T14:43:50+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://s0l1dx10.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://s0l1dx10.github.io/search/</loc>
     <lastmod>2024-03-16T16:11:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://s0l1dx10.github.io/tags/</loc>
   </url>
 </urlset>
