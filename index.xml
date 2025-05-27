@@ -4,18 +4,18 @@
     <title>S0L1Dx10</title>
     <link>https://s0l1dx10.github.io/</link>
     <description>Recent content on S0L1Dx10</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 19:42:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 15:28:04 +0300</lastBuildDate>
     <atom:link href="https://s0l1dx10.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tests</title>
+      <title>Linux File System: A Beefy and Thorough Introduction</title>
       <link>https://s0l1dx10.github.io/posts/linux/tests/</link>
       <pubDate>Sat, 16 Mar 2024 10:26:47 +0200</pubDate>
       <guid>https://s0l1dx10.github.io/posts/linux/tests/</guid>
-      <description>&lt;p&gt;testing&amp;hellip;
-sa
-Sadfa&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tl-dr&#34;&gt;TL; DR&lt;/h1&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;h1 id=&#34;root-directory&#34;&gt;Root Directory&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About Me</title>
