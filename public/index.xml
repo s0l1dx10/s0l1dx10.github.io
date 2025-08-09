@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>S0L1Dx10</title>
-    <link>https://s0l1dx10.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on S0L1Dx10</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 15:28:04 +0300</lastBuildDate>
-    <atom:link href="https://s0l1dx10.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux File System: A Beefy and Thorough Introduction</title>
-      <link>https://s0l1dx10.github.io/posts/linux/tests/</link>
+      <link>http://localhost:1313/posts/linux/tests/</link>
       <pubDate>Sat, 16 Mar 2024 10:26:47 +0200</pubDate>
-      <guid>https://s0l1dx10.github.io/posts/linux/tests/</guid>
+      <guid>http://localhost:1313/posts/linux/tests/</guid>
       <description>&lt;h1 id=&#34;tl-dr&#34;&gt;TL; DR&lt;/h1&gt;
 &lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 &lt;h1 id=&#34;root-directory&#34;&gt;Root Directory&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://s0l1dx10.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://s0l1dx10.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h3 id=&#34;hi-my-name-is-mohammed-abdulfattah&#34;&gt;Hi, my name is Mohammed Abdulfattah&lt;/h3&gt;
 &lt;p&gt;A lifelong learner with passion for technology, particularly cybersecurity. Currently working in Identity Access Management team at &lt;a href=&#34;https://www.secure-networksco.com/&#34;&gt;Secure Networks&lt;/a&gt;. Welcome to my Blog ^_^&lt;/p&gt;
 &lt;script src=&#34;https://tryhackme.com/badge/1246672&#34;&gt;&lt;/script&gt;</description>
